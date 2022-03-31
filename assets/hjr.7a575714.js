@@ -1,0 +1,1 @@
+import{h as e}from"./request.8e63e585.js";function u(t){return e.request({method:"POST",url:"/getUserLogin",data:t})}function s(t){return e.request({method:"POST",url:"/getTestListA",data:t})}function n(t){return e.request({method:"POST",url:"/getApp",data:t})}function o(t){return e.request({method:"POST",url:"/getSxt",data:t})}export{s as a,o as b,u as c,n as g};
